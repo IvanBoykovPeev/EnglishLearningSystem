@@ -1,0 +1,5 @@
+C:\Users\blade\Desktop\source\EnglishLearningSystem\EnglishLearningSystem\Domain\bin\Debug\Domain.dll
+C:\Users\blade\Desktop\source\EnglishLearningSystem\EnglishLearningSystem\Domain\bin\Debug\Domain.pdb
+C:\Users\blade\Desktop\source\EnglishLearningSystem\EnglishLearningSystem\Domain\obj\Debug\Domain.dll
+C:\Users\blade\Desktop\source\EnglishLearningSystem\EnglishLearningSystem\Domain\obj\Debug\Domain.pdb
+C:\Users\blade\Desktop\source\EnglishLearningSystem\EnglishLearningSystem\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
