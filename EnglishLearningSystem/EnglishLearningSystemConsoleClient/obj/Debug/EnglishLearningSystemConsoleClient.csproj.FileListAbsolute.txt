@@ -12,3 +12,5 @@ C:\Users\blade\Desktop\source\EnglishLearningSystem\EnglishLearningSystem\Englis
 C:\Users\blade\Desktop\source\EnglishLearningSystem\EnglishLearningSystem\EnglishLearningSystemConsoleClient\obj\Debug\EnglishLearningSystemConsoleClient.csprojResolveAssemblyReference.cache
 C:\Users\blade\Desktop\source\EnglishLearningSystem\EnglishLearningSystem\EnglishLearningSystemConsoleClient\obj\Debug\EnglishLearningSystemConsoleClient.exe
 C:\Users\blade\Desktop\source\EnglishLearningSystem\EnglishLearningSystem\EnglishLearningSystemConsoleClient\obj\Debug\EnglishLearningSystemConsoleClient.pdb
+C:\Users\blade\Desktop\source\EnglishLearningSystem\EnglishLearningSystem\EnglishLearningSystemConsoleClient\bin\Debug\Database1.mdf
+C:\Users\blade\Desktop\source\EnglishLearningSystem\EnglishLearningSystem\EnglishLearningSystemConsoleClient\bin\Debug\Database1_log.ldf

@@ -10,3 +10,5 @@ C:\Users\blade\Desktop\source\EnglishLearningSystem\EnglishLearningSystem\Reposi
 C:\Users\blade\Desktop\source\EnglishLearningSystem\EnglishLearningSystem\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
 C:\Users\blade\Desktop\source\EnglishLearningSystem\EnglishLearningSystem\Repository\obj\Debug\Repository.dll
 C:\Users\blade\Desktop\source\EnglishLearningSystem\EnglishLearningSystem\Repository\obj\Debug\Repository.pdb
+C:\Users\blade\Desktop\source\EnglishLearningSystem\EnglishLearningSystem\Repository\bin\Debug\Database1.mdf
+C:\Users\blade\Desktop\source\EnglishLearningSystem\EnglishLearningSystem\Repository\bin\Debug\Database1_log.ldf

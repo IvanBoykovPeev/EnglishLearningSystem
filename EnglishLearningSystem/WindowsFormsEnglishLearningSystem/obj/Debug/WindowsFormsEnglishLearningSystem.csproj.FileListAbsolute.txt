@@ -15,3 +15,6 @@ C:\Users\blade\Desktop\source\EnglishLearningSystem\EnglishLearningSystem\Window
 C:\Users\blade\Desktop\source\EnglishLearningSystem\EnglishLearningSystem\WindowsFormsEnglishLearningSystem\obj\Debug\WindowsFormsEnglishLearningSystem.csproj.GenerateResource.Cache
 C:\Users\blade\Desktop\source\EnglishLearningSystem\EnglishLearningSystem\WindowsFormsEnglishLearningSystem\obj\Debug\WindowsFormsEnglishLearningSystem.exe
 C:\Users\blade\Desktop\source\EnglishLearningSystem\EnglishLearningSystem\WindowsFormsEnglishLearningSystem\obj\Debug\WindowsFormsEnglishLearningSystem.pdb
+C:\Users\blade\Desktop\source\EnglishLearningSystem\EnglishLearningSystem\WindowsFormsEnglishLearningSystem\bin\Debug\Database1.mdf
+C:\Users\blade\Desktop\source\EnglishLearningSystem\EnglishLearningSystem\WindowsFormsEnglishLearningSystem\bin\Debug\Database1_log.ldf
+C:\Users\blade\Desktop\source\EnglishLearningSystem\EnglishLearningSystem\WindowsFormsEnglishLearningSystem\obj\Debug\WindowsFormsEnglishLearningSystem.AdminForm.resources
